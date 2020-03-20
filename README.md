@@ -1,9 +1,9 @@
 # salamandarian
 Created by @axelgreavette
 
-> run with `node salamandarian.js`
+* run with `node salamandarian.js`
 
-> each time change `startingValue` to the `values.length` (rolledDice) given in previous month
+* each time change `startingValue` to the `values.length` (rolledDice) given in previous month
 
 for example,
 
