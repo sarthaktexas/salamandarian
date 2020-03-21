@@ -1,6 +1,7 @@
 # salamandarian
 
-* run with `node salamandarian.js`
+* run in a web console such as https://jsconsole.com/
+* when you do run be sure to follow the following: (you must run each code 20 times to get the needed data)
 
 * each time change `startingValue` to the `values.length` (rolledDice) given in previous month
 
@@ -13,7 +14,7 @@ const startingValue = 20;
 const startingValue = 11;
 ```
 
-* also change the numbers to represent what's actually happening
+* also change the numbers to represent what's actually happening (per simulation)
 * reproduced need not be changed
 
 ```javascript
