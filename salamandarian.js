@@ -21,7 +21,7 @@ let results = {
 }
 
 console.log(`\nStarted with ${startingValue} dice.`);
-console.log(`Rolled ${values.length} dice.`);
+console.log(`Rolled ${values.length-results.dead} dice.`);
 console.log("\nIn total:")
 console.log(`${results.dead} salamanders died,`);
 console.log(`${results.reproduced} salamanders reproduced,`);
