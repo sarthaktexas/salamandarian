@@ -1,7 +1,7 @@
 # salamandarian
 
 * run in a web console such as https://jsconsole.com/
-* when you do run be sure to follow the following: (you must run each code 20 times to get the needed data)
+> when you do run be sure to follow the following: (you must run each code 20 times to get the needed data)
 
 * each time change `startingValue` to the `values.length` (rolledDice) given in previous month
 
