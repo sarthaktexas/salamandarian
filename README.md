@@ -15,6 +15,7 @@ const startingValue = 11;
 
 * also change the numbers to represent what's actually happening
 * reproduced need not be changed
+
 ```javascript
 let results = {
     dead: values.filter(v => v === 1 || v === 2 || v === 4).length,
